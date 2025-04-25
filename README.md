@@ -1,3 +1,7 @@
+# Moved
+
+https://github.com/eclipse-xfsc/aries-integration-tests
+
 # ocm-bdd-2-qa
 
 
